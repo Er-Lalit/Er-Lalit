@@ -15,7 +15,7 @@
 - 🎓 B.Tech CSE @ GJUS&T, Hisar  
 - 💻 Focused on **Java Backend Development**  
 - 🧠 Strong foundation in **Data Structures & Algorithms**  
-- 🔥 Solved **200+ LeetCode problems**  
+- 🔥 Solved **250+ LeetCode problems**  
 - ⚡ Love solving complex problems and optimizing solutions  
 
 ---
