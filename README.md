@@ -6,7 +6,7 @@
 <h2 align="center">💻 Java Backend Developer | DSA Problem Solver</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=200%2B+LeetCode+Problems;Strong+in+Data+Structures+%26+Algorithms;Backend+Developer+using+Java;Building+Scalable+Systems&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=250%2B+LeetCode+Problems;Strong+in+Data+Structures+%26+Algorithms;Backend+Developer+using+Java;Building+Scalable+Systems&center=true&width=600&height=45">
 </p>
 
 ---
