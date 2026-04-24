@@ -1,35 +1,70 @@
-# 💫 About Me:
-Java Backend Developer with strong problem-solving skills | 200+ LeetCode problems  
-Focused on Data Structures & Algorithms and backend development using Java  
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Lalit%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h2 align="center">💻 Java Backend Developer | DSA Problem Solver</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=200%2B+LeetCode+Problems;Strong+in+Data+Structures+%26+Algorithms;Backend+Developer+using+Java;Building+Scalable+Systems&center=true&width=600&height=45">
+</p>
 
 ---
 
-## 🌐 Socials:
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lalitkumar888898@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
+## 🚀 About Me
+- 🎓 B.Tech CSE @ GJUS&T, Hisar  
+- 💻 Focused on **Java Backend Development**  
+- 🧠 Strong foundation in **Data Structures & Algorithms**  
+- 🔥 Solved **200+ LeetCode problems**  
+- ⚡ Love solving complex problems and optimizing solutions  
 
 ---
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Servlets](https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-323330?style=for-the-badge&logo=java&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-6DB33F?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,mysql,git,github,vscode,eclipse,html,css" />
+</p>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Er-Lalit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=Er-Lalit&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Er-Lalit&theme=tokyonight&hide_border=false&layout=compact)
+## 🏗️ Projects
+- 🏦 **Banking Management System** — Core Java application  
+- 🛒 **E-commerce Backend** — Servlets, JSP, JDBC, MySQL  
+- 📘 **LeetCode Solutions** — Structured DSA problem-solving  
 
 ---
 
-## 👀 Profile Views:
-[![](https://komarev.com/ghpvc/?username=Er-Lalit&color=blue)](https://visitcount.itsvg.in)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Er-Lalit&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=Er-Lalit&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Er-Lalit&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 What I'm Focused On
+- 🚀 Improving DSA (Binary Search, DP, Trees, Graphs)  
+- 💻 Building strong backend systems  
+- ⚡ Writing clean and optimized code  
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:lalitkumar888898@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer"/>
+</p>
