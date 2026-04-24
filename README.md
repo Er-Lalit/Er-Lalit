@@ -6,6 +6,7 @@ Focused on Data Structures & Algorithms and backend development using Java
 
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lalitkumar888898@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
 
 ---
 
@@ -22,10 +23,13 @@ Focused on Data Structures & Algorithms and backend development using Java
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Er-Lalit&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://streak-stats.demolab.com/?user=Er-Lalit&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Er-Lalit&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Er-Lalit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=Er-Lalit&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Er-Lalit&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
+## 👀 Profile Views:
 [![](https://komarev.com/ghpvc/?username=Er-Lalit&color=blue)](https://visitcount.itsvg.in)
